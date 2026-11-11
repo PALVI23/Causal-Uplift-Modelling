@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn>=1.4
+lightgbm>=4.3
+matplotlib
+seaborn
+tabulate
+nbformat
